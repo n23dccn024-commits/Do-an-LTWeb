@@ -159,3 +159,4 @@ F:\Đồ án LTWeb\HotelBookingAPI\obj\Debug\net10.0\ref\HotelBookingAPI.dll
 F:\Đồ án LTWeb\HotelBookingAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 F:\Đồ án LTWeb\HotelBookingAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 F:\Đồ án LTWeb\HotelBookingAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Đồ án LTWeb\HotelBookingAPI\obj\Debug\net10.0\HotelBookingAPI.sourcelink.json
